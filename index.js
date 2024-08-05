@@ -15,10 +15,10 @@ document.addEventListener("DOMContentLoaded", function() {
                 d.tree_ratio_rounded = +d.tree_ratio_rounded; 
             });
 
-            // Sort data alphabetically by neighborhood name (nta_name)
+            // Sorting neighborhoods alphabetically
             data.sort((a, b) => d3.ascending(a.nta_name, b.nta_name));
 
-            // Create dropdown options
+            // Dropdown options creation
             const dropdown = d3.select("#neighborhood");
             dropdown.selectAll("option")
                 .data(data)
@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 .attr("value", d => d.nta_name)
                 .text(d => d.nta_name);
 
-            // Select a random neighborhood initially
+            // Randomize first neighborhood to select
             const randomNeighborhood = data[Math.floor(Math.random() * data.length)].nta_name;
             updateVisualization(randomNeighborhood);
             dropdown.property("value", randomNeighborhood);
@@ -43,11 +43,11 @@ document.addEventListener("DOMContentLoaded", function() {
             });
 
             function updateVisualization(neighborhood) {
-                // Filter data based on selected neighborhood
+                // Data selection based on neighborhood
                 const filteredData = data.find(d => d.nta_name === neighborhood);
                 const treeRatio = filteredData.tree_ratio_rounded;
 
-                // Clear previous circles and tree images
+                // Removing the previous circles
                 svg.selectAll("circle, image").remove();
 
                 // Function to generate random positions
