@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function() {
     d3.csv("tree_ratio_all.csv").then(data => {
         try {
             data.forEach(d => {
-                d.tree_ratio_rounded = +d.tree_ratio_rounded; // Convert tree_ratio_rounded to number
+                d.tree_ratio_rounded = +d.tree_ratio_rounded; 
             });
 
             // Sort data alphabetically by neighborhood name (nta_name)
