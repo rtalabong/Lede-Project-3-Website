@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const svg = d3.select("svg");
     const width = +svg.attr("width");
     const height = +svg.attr("height");
-    const circleRadius = 3;
+    const circleRadius = 3.5;
     const initialTreeWidth = 80;
     const initialTreeHeight = 120;
     const minTreeWidth = 10;
