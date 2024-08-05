@@ -70,6 +70,8 @@
             padding-bottom: 2em;
         }
 
+        img
+
         .controls {
             display: flex;
             justify-content: center;
@@ -86,6 +88,17 @@
         .person {
             fill: '#210124';
         }
+
+        .legend-image {
+            max-width: 100%;
+            height: auto;
+            padding-bottom: 10px;
+            padding-top: 15px;
+        }
+
+        .svg-container {
+            padding-bottom: 15px;
+        }
     </style>
 </head>
 <body>
@@ -100,7 +113,9 @@
         <label for="neighborhood"></label>
         <select id="neighborhood"></select>
     </div>
-    <svg width="1080" height="667"></svg>
+    <img class = "legend-image" src="legend.png" alt="Legend" style="max-width:250px; height:auto;">
+    <div class = "svg-container"><svg width="1080" height="667"></svg></div>
+    </div>
     <p>For this visualization, we used the latest population data on neighborhood tabulation areas by the Census Bureau. We also used the New York City census of trees in 2015.</p>
     <p>The street tree census of New York City is interesting because it counts only street trees and excludes trees in parks.</p>
     <p>With walking as one of the more preferred modes of transportation by New Yorkers and with the increase of extreme-temperature days, street trees have become more important.</p>
