@@ -1,0 +1,190 @@
+,nta_name,nta_code,nta_population,percent_white,percent_black,percent_latino,percent_asian,tree_count,tree_ratio,tree_ratio_rounded,borough,majority_group
+0,Claremont-Bathgate,BX01,35560,1,37.3,60.6,0.1,1706,4.8,5,Bronx,Latino/Hispanic
+1,Eastchester-Edenwald-Baychester,BX03,37887,3.1,66,24.6,4.2,2629,6.94,7,Bronx,Black
+2,Bedford Park-Fordham North,BX05,57685,4.2,15.6,75,3.8,1821,3.16,3,Bronx,Latino/Hispanic
+3,Belmont,BX06,29115,18.2,16.3,61,2.1,1637,5.62,6,Bronx,Latino/Hispanic
+4,Bronxdale,BX07,39423,13.9,26.1,54.9,2.9,1550,3.93,4,Bronx,Latino/Hispanic
+5,West Farms-Bronx River,BX08,36014,2.7,26.6,65.8,2.8,1623,4.51,5,Bronx,Latino/Hispanic
+6,Soundview-Castle Hill-Clason Point-Harding Park,BX09,54925,2.7,34.1,60.4,1.3,3819,6.95,7,Bronx,Latino/Hispanic
+7,Pelham Bay-Country Club-City Island,BX10,26877,49.4,4.3,41.4,3.7,3196,11.89,12,Bronx,White
+8,Co-op City,BX13,47400,6.6,59.2,28.3,2.3,2103,4.44,4,Bronx,Black
+9,East Concourse-Concourse Village,BX14,64850,1.6,31.2,63.3,1.4,2498,3.85,4,Bronx,Latino/Hispanic
+10,East Tremont,BX17,44057,1.4,28.3,68.8,0.7,2593,5.89,6,Bronx,Latino/Hispanic
+11,North Riverdale-Fieldston-Riverdale,BX22,27551,61.8,8.9,21.6,5.1,2019,7.33,7,Bronx,White
+12,Highbridge,BX26,39140,2.5,32.1,64.3,0.5,1979,5.06,5,Bronx,Latino/Hispanic
+13,Hunts Point,BX27,26196,1.7,26.5,70.7,0.4,3521,13.44,13,Bronx,Latino/Hispanic
+14,Van Cortlandt Village,BX28,50935,8,16.1,69.7,3.7,2399,4.71,5,Bronx,Latino/Hispanic
+15,Spuyten Duyvil-Kingsbridge,BX29,31295,45.7,8.2,38.7,4.9,2017,6.45,6,Bronx,White
+16,Kingsbridge Heights,BX30,32163,3.5,15.6,75.7,2.3,1184,3.68,4,Bronx,Latino/Hispanic
+17,Allerton-Pelham Gardens,BX31,31993,21,31,36.3,9.8,3843,12.01,12,Bronx,Latino/Hispanic
+18,Longwood,BX33,27864,1.7,25.7,69.9,1.5,1572,5.64,6,Bronx,Latino/Hispanic
+19,Melrose South-Mott Haven North,BX34,42882,1.7,30.4,65.6,0.6,2156,5.03,5,Bronx,Latino/Hispanic
+20,Morrisania-Melrose,BX35,40925,1.2,38.2,58.3,1,2330,5.69,6,Bronx,Latino/Hispanic
+21,University Heights-Morris Heights,BX36,56293,1.1,27.8,68.9,1.5,2002,3.56,4,Bronx,Latino/Hispanic
+22,Van Nest-Morris Park-Westchester Square,BX37,29004,24.3,11.8,51.5,10,3143,10.84,11,Bronx,Latino/Hispanic
+23,Mott Haven-Port Morris,BX39,54163,1.9,28,68.8,0.4,2517,4.65,5,Bronx,Latino/Hispanic
+24,Fordham South,BX40,28164,0.7,25.3,71.6,0.4,1060,3.76,4,Bronx,Latino/Hispanic
+25,Mount Hope,BX41,53198,1.3,26.4,69,1.4,2051,3.86,4,Bronx,Latino/Hispanic
+26,Norwood,BX43,42227,9.7,13.5,63.5,10.7,1981,4.69,5,Bronx,Latino/Hispanic
+27,Williamsbridge-Olinville,BX44,66606,2.4,68.3,26.4,1.3,3371,5.06,5,Bronx,Black
+28,Parkchester,BX46,30372,2,40.3,38.2,16.2,790,2.6,3,Bronx,Black
+29,Pelham Parkway,BX49,28913,30.7,13.9,43.4,10,2312,8,8,Bronx,Latino/Hispanic
+30,Schuylerville-Throgs Neck-Edgewater Park,BX52,46810,36.3,9.6,49.2,3.4,5023,10.73,11,Bronx,Latino/Hispanic
+31,Soundview-Bruckner,BX55,37130,3,21.5,63.9,8.7,1921,5.17,5,Bronx,Latino/Hispanic
+32,Westchester-Unionport,BX59,28302,4.3,17.7,59.9,13.8,2820,9.96,10,Bronx,Latino/Hispanic
+33,Woodlawn-Wakefield,BX62,43858,15.1,58.5,17.8,5.1,4083,9.31,9,Bronx,Black
+34,West Concourse,BX63,38081,2,22.1,71.2,2.1,2142,5.62,6,Bronx,Latino/Hispanic
+35,Crotona Park East,BX75,22103,0.8,29.6,67.6,1.6,1546,6.99,7,Bronx,Latino/Hispanic
+36,Rikers Island,BX98,7080,7.6,56.3,32.9,1.8,,0,0,Bronx,Black
+38,Brooklyn Heights-Cobble Hill,BK09,24168,72.6,5.8,7.3,9.3,1767,7.31,7,Brooklyn,White
+39,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,BK17,65631,62.4,6.5,9.2,19.8,5321,8.11,8,Brooklyn,White
+40,Brighton Beach,BK19,34431,71.2,0.7,10.7,13.8,1281,3.72,4,Brooklyn,White
+41,Seagate-Coney Island,BK21,32259,31.7,29.2,27.9,8.7,1454,4.51,5,Brooklyn,White
+42,West Brighton,BK23,16774,92.6,1.7,3.9,0.8,481,2.87,3,Brooklyn,White
+43,Homecrest,BK25,45007,72.8,1.9,11.8,9.8,4247,9.44,9,Brooklyn,White
+44,Gravesend,BK26,30587,44.2,7.5,20.9,23.3,1412,4.62,5,Brooklyn,White
+45,Bath Beach,BK27,33020,41.2,1.1,18.1,37.1,1818,5.51,6,Brooklyn,White
+46,Bensonhurst West,BK28,90847,38.6,0.9,16.8,41.9,4258,4.69,5,Brooklyn,Asian
+47,Bensonhurst East,BK29,65502,42.1,1,13.5,41,3348,5.11,5,Brooklyn,White
+48,Dyker Heights,BK30,43888,43.7,0.9,13.7,40.4,3248,7.4,7,Brooklyn,White
+49,Bay Ridge,BK31,79187,60.7,2.8,18.2,15.5,7026,8.87,9,Brooklyn,White
+50,Sunset Park West,BK32,54667,17.9,3.3,61.5,15.5,3243,5.93,6,Brooklyn,Latino/Hispanic
+51,Carroll Gardens-Columbia Street-Red Hook,BK33,43766,59.3,11.9,17.3,5.9,4346,9.93,10,Brooklyn,White
+52,Sunset Park East,BK34,66348,14.6,1.4,30.9,51.6,3224,4.86,5,Brooklyn,Asian
+53,Stuyvesant Heights,BK35,69260,12.7,64,17.2,3.3,3879,5.6,6,Brooklyn,Black
+54,Park Slope-Gowanus,BK37,74731,66.9,4.5,15.8,7.6,6314,8.45,8,Brooklyn,White
+55,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,BK38,45607,44.5,20.3,19.1,11.8,2937,6.44,6,Brooklyn,White
+56,Windsor Terrace,BK40,22832,68.7,3.9,13.8,10.1,2290,10.03,10,Brooklyn,White
+57,Kensington-Ocean Parkway,BK41,35510,47.8,5.7,16.8,24.3,2295,6.46,6,Brooklyn,White
+58,Flatbush,BK42,106883,24,44,18.7,10.1,6116,5.72,6,Brooklyn,Black
+59,Midwood,BK43,54637,73.6,4.6,7.6,11.8,4860,8.9,9,Brooklyn,White
+60,Madison,BK44,40958,62.7,2.7,8.9,22.5,3644,8.9,9,Brooklyn,White
+61,Georgetown-Marine Park-Bergen Beach-Mill Basin,BK45,47726,66.2,12.9,10.2,9,7449,15.61,16,Brooklyn,White
+62,Ocean Parkway South,BK46,20684,83.5,1.2,8,4.1,2537,12.27,12,Brooklyn,White
+63,Canarsie,BK50,88522,4.7,83.7,7.1,2.9,5994,6.77,7,Brooklyn,Black
+64,Flatlands,BK58,72186,16,67.7,9.4,4.9,5589,7.74,8,Brooklyn,Black
+65,Prospect Lefferts Gardens-Wingate,BK60,69111,17,68.4,9.6,2.3,3169,4.59,5,Brooklyn,Black
+66,Crown Heights North,BK61,109987,16.8,64.8,12.4,3,6411,5.83,6,Brooklyn,Black
+67,Crown Heights South,BK63,40451,32.8,57.2,6.2,1.2,2120,5.24,5,Brooklyn,Black
+68,Prospect Heights,BK64,21237,50.8,24.6,10.1,7.9,1535,7.23,7,Brooklyn,White
+69,Fort Greene,BK68,32193,31.2,36.5,17.2,9.2,2150,6.68,7,Brooklyn,Black
+70,Clinton Hill,BK69,38930,44.8,33.5,11.4,6.4,3017,7.75,8,Brooklyn,White
+71,Williamsburg,BK72,34373,85.7,4.4,8.9,0.5,1658,4.82,5,Brooklyn,White
+72,North Side-South Side,BK73,57036,54.3,3,32.5,7,3484,6.11,6,Brooklyn,White
+73,Bedford,BK75,77847,37.8,36.6,20.6,3.2,3702,4.76,5,Brooklyn,White
+74,Greenpoint,BK76,33918,74.3,3,14.2,4.9,3375,9.95,10,Brooklyn,White
+75,Bushwick North,BK77,57051,19.1,10,62.1,6.5,3455,6.06,6,Brooklyn,Latino/Hispanic
+76,Bushwick South,BK78,72925,18.8,24.9,50,4.1,4538,6.22,6,Brooklyn,Latino/Hispanic
+77,Ocean Hill,BK79,35818,5.7,70.8,21,1.4,2340,6.53,7,Brooklyn,Black
+78,Brownsville,BK81,52174,1,72.9,23,1.6,3092,5.93,6,Brooklyn,Black
+79,East New York,BK82,96755,1.9,64.8,28.9,2.4,9607,9.93,10,Brooklyn,Black
+80,Cypress Hills-City Line,BK83,49063,3.2,25.2,60.8,8,3644,7.43,7,Brooklyn,Latino/Hispanic
+81,East New York (Pennsylvania Ave),BK85,29063,1.7,72.3,23.1,0.9,2991,10.29,10,Brooklyn,Black
+82,Borough Park,BK88,102494,76.7,1,8.6,12.9,5955,5.81,6,Brooklyn,White
+83,East Williamsburg,BK90,36038,44.3,8.4,29.4,15,2296,6.37,6,Brooklyn,White
+84,East Flatbush-Farragut,BK91,51922,2.1,87.9,6.4,1.8,3008,5.79,6,Brooklyn,Black
+85,Starrett City,BK93,12956,19.2,58.8,18.4,2.1,688,5.31,5,Brooklyn,Black
+86,Erasmus,BK95,28689,6.4,81.4,8.7,1.4,1395,4.86,5,Brooklyn,Black
+87,Rugby-Remsen Village,BK96,54666,1.4,88.1,8,0.8,3312,6.06,6,Brooklyn,Black
+89,Marble Hill-Inwood,MN01,52922,16.8,7.4,71.5,2.6,1754,3.31,3,Manhattan,Latino/Hispanic
+90,Central Harlem North-Polo Grounds,MN03,86117,10.1,58.7,25.8,2.1,3515,4.08,4,Manhattan,Black
+91,Hamilton Heights,MN04,52700,18.2,25.8,48.3,3.4,2407,4.57,5,Manhattan,Latino/Hispanic
+92,Manhattanville,MN06,23673,11.1,29.2,52.5,5.4,913,3.86,4,Manhattan,Latino/Hispanic
+93,Morningside Heights,MN09,53094,44.4,13.8,23.2,15.5,2751,5.18,5,Manhattan,White
+94,Central Harlem South,MN11,51064,21,49.6,20.5,5.7,2670,5.23,5,Manhattan,Black
+95,Upper West Side,MN12,132455,67.3,5.9,16.6,7.3,5881,4.44,4,Manhattan,White
+96,Hudson Yards-Chelsea-Flatiron-Union Square,MN13,76863,62.4,5.3,13.9,15.6,2988,3.89,4,Manhattan,White
+97,Lincoln Square,MN14,62685,69.4,4.2,10.4,13,2065,3.29,3,Manhattan,White
+98,Clinton,MN15,49758,52.8,5.5,21.1,17.5,2008,4.04,4,Manhattan,White
+99,Midtown-Midtown South,MN17,27875,61.5,4.5,9.8,20.8,1196,4.29,4,Manhattan,White
+100,Turtle Bay-East Midtown,MN19,50180,75.1,1.4,4.9,16.2,2253,4.49,4,Manhattan,White
+101,Murray Hill-Kips Bay,MN20,47775,62.5,4.6,9.2,19.8,1746,3.65,4,Manhattan,White
+102,Gramercy,MN21,26928,70.6,3.9,7.7,15.4,1172,4.35,4,Manhattan,White
+103,East Village,MN22,42529,64.9,6.7,12.4,13.7,1575,3.7,4,Manhattan,White
+104,West Village,MN23,66258,80,2.1,6,8.5,3837,5.79,6,Manhattan,White
+105,SoHo-TriBeCa-Civic Center-Little Italy,MN24,42698,66.2,2.2,6.3,21.5,2215,5.19,5,Manhattan,White
+106,Battery Park City-Lower Manhattan,MN25,45680,66.5,2.4,7.4,19.9,1311,2.87,3,Manhattan,White
+107,Chinatown,MN27,44062,18.3,5.3,15.2,57.7,1474,3.35,3,Manhattan,Asian
+108,Lower East Side,MN28,68404,23.3,11.4,39.4,23.6,1943,2.84,3,Manhattan,Latino/Hispanic
+109,Lenox Hill-Roosevelt Island,MN31,81559,70,3.2,10.7,13.5,2327,2.85,3,Manhattan,White
+110,Yorkville,MN32,78241,75,2.5,10.7,9.4,2269,2.9,3,Manhattan,White
+111,East Harlem South,MN33,59869,19.7,23.4,44,11.1,2014,3.36,3,Manhattan,Latino/Hispanic
+112,East Harlem North,MN34,62810,7.8,37.5,47.7,4.5,2591,4.13,4,Manhattan,Latino/Hispanic
+113,Washington Heights North,MN35,73052,26.8,4.3,64.3,2.7,2684,3.67,4,Manhattan,Latino/Hispanic
+114,Washington Heights South,MN36,93663,13.9,10.2,70.8,3.6,2990,3.19,3,Manhattan,Latino/Hispanic
+115,Upper East Side-Carnegie Hill,MN40,55649,83.3,0.7,6.7,6.5,4673,8.4,8,Manhattan,White
+116,Stuyvesant Town-Cooper Village,MN50,22032,72.2,4.8,8.2,11.8,447,2.03,2,Manhattan,White
+118,South Jamaica,QN01,43253,1.4,62.1,16.6,8.6,4077,9.43,9,Queens,Black
+119,Springfield Gardens North,QN02,27649,1,89.6,6.1,2.1,2967,10.73,11,Queens,Black
+120,Springfield Gardens South-Brookville,QN03,22380,3,87.1,5.6,1.9,3754,16.77,17,Queens,Black
+121,Rosedale,QN05,26117,3.4,81.1,10.3,2.2,5372,20.57,21,Queens,Black
+122,Jamaica Estates-Holliswood,QN06,26517,22.3,24.7,15.4,32.5,4254,16.04,16,Queens,Asian
+123,Hollis,QN07,21448,2.4,63.8,10.3,14.8,2553,11.9,12,Queens,Black
+124,St. Albans,QN08,53134,1.3,88.1,5.6,2.2,7239,13.62,14,Queens,Black
+125,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,QN10,27894,75.6,5.8,13.6,2.8,4351,15.6,16,Queens,White
+126,Hammels-Arverne-Edgemere,QN12,41470,16.1,47.1,28.3,5.1,3187,7.69,8,Queens,Black
+127,Far Rockaway-Bayswater,QN15,56522,27,42.3,25.7,3.4,4972,8.8,9,Queens,Black
+128,Forest Hills,QN17,88313,49.9,2.4,15.8,27.5,7701,8.72,9,Queens,White
+129,Rego Park,QN18,27739,40.5,5.2,14.9,36.8,2460,8.87,9,Queens,White
+130,Glendale,QN19,35576,55.5,1.4,37.8,4.3,4509,12.67,13,Queens,White
+131,Ridgewood,QN20,75437,41.2,1.7,47.6,7.8,6481,8.59,9,Queens,Latino/Hispanic
+132,Middle Village,QN21,40435,67.1,0.8,20.1,10.2,5345,13.22,13,Queens,White
+133,Flushing,QN22,70219,7.7,3.8,14.6,71.6,3227,4.6,5,Queens,Asian
+134,College Point,QN23,24795,25.6,2,40.5,29.4,3474,14.01,14,Queens,Latino/Hispanic
+135,Corona,QN25,58498,6.5,13,63.9,15,2070,3.54,4,Queens,Latino/Hispanic
+136,North Corona,QN26,54146,1.1,3.2,88,7,2264,4.18,4,Queens,Latino/Hispanic
+137,East Elmhurst,QN27,19790,5.3,21.6,60.7,11.1,2165,10.94,11,Queens,Latino/Hispanic
+138,Jackson Heights,QN28,98728,16.6,2.6,56,22.9,6863,6.95,7,Queens,Latino/Hispanic
+139,Elmhurst,QN29,81745,6,1.7,44.7,45.6,3307,4.05,4,Queens,Asian
+140,Maspeth,QN30,32179,53.1,1.5,30.9,12.4,3290,10.22,10,Queens,White
+141,Hunters Point-Sunnyside-West Maspeth,QN31,69295,38.5,2.2,31.9,24.5,5242,7.56,8,Queens,White
+142,Cambria Heights,QN33,21207,0.9,89.8,6.6,0.4,3324,15.67,16,Queens,Black
+143,Queens Village,QN34,54256,5.6,47.7,18.5,15.3,6856,12.64,13,Queens,Black
+144,Briarwood-Jamaica Hills,QN35,43476,15.7,11.6,26.5,40.1,3278,7.54,8,Queens,Asian
+145,Kew Gardens Hills,QN37,37584,51.5,6.6,15,23.9,5088,13.54,14,Queens,White
+146,Pomonok-Flushing Heights-Hillcrest,QN38,36975,30.3,11.4,24.1,31.2,4985,13.48,13,Queens,Asian
+147,Fresh Meadows-Utopia,QN41,18699,29.6,5.8,11.7,49.3,2872,15.36,15,Queens,Asian
+148,Oakland Gardens,QN42,30316,37.7,2.6,9.9,46.9,6059,19.99,20,Queens,Asian
+149,Bellerose,QN43,27733,25.5,7.9,21.1,41.7,6246,22.52,23,Queens,Asian
+150,Glen Oaks-Floral Park-New Hyde Park,QN44,24365,40.2,5.4,10.6,40.5,6814,27.97,28,Queens,Asian
+151,Douglas Manor-Douglaston-Little Neck,QN45,25633,46,1,10,40.4,7302,28.49,28,Queens,White
+152,Bayside-Bayside Hills,QN46,43212,39.7,2.4,11.5,45.1,9780,22.63,23,Queens,Asian
+153,Ft. Totten-Bay Terrace-Clearview,QN47,22700,57.2,0.8,12.6,27.4,2906,12.8,13,Queens,White
+154,Auburndale,QN48,20588,32.8,1.1,13.6,49.9,5332,25.9,26,Queens,Asian
+155,Whitestone,QN49,31971,60.7,0.4,14.5,22.2,7620,23.83,24,Queens,White
+156,Elmhurst-Maspeth,QN50,24234,12.9,0.8,27,57.8,1996,8.24,8,Queens,Asian
+157,Murray Hill,QN51,50231,23.7,1.7,15.8,56.8,7133,14.2,14,Queens,Asian
+158,East Flushing,QN52,25677,15,1.1,17.8,64.2,3247,12.65,13,Queens,Asian
+159,Woodhaven,QN53,60572,15.5,3.1,55.2,23.6,4260,7.03,7,Queens,Latino/Hispanic
+160,Richmond Hill,QN54,65068,10.5,7.9,36.6,31.5,5101,7.84,8,Queens,Latino/Hispanic
+161,South Ozone Park,QN55,82931,5.2,21,22.1,29.9,7321,8.83,9,Queens,Asian
+162,Ozone Park,QN56,24511,21.5,5.3,42.5,24.9,3244,13.23,13,Queens,Latino/Hispanic
+163,Lindenwood-Howard Beach,QN57,29219,67.8,1.8,22.3,5,4627,15.84,16,Queens,White
+164,Kew Gardens,QN60,23166,45.9,5.1,26.2,18,2024,8.74,9,Queens,White
+165,Jamaica,QN61,53932,3.3,15.7,35.2,34.7,4252,7.88,8,Queens,Latino/Hispanic
+166,Queensboro Hill,QN62,20269,12.3,1.4,16.8,67.7,3020,14.9,15,Queens,Asian
+167,Woodside,QN63,43841,22.6,0.8,33.8,40.4,2739,6.25,6,Queens,Asian
+168,Laurelton,QN66,26544,1.2,89.7,5.7,0.7,4623,17.42,17,Queens,Black
+169,Queensbridge-Ravenswood-Long Island City,QN68,19228,15.5,25,34.5,21,1366,7.1,7,Queens,Latino/Hispanic
+170,Astoria,QN70,74767,50.3,3.6,26.4,16.7,4393,5.88,6,Queens,White
+171,Old Astoria,QN71,24732,39.4,9.8,32.5,15.6,1341,5.42,5,Queens,White
+172,Steinway,QN72,48235,62.8,2.5,20.9,11.3,5436,11.27,11,Queens,White
+173,Baisley Park,QN76,39203,1,68.5,12.3,7.1,4815,12.28,12,Queens,Black
+176,Annadale-Huguenot-Prince's Bay-Eltingville,SI01,28976,86.8,0.9,7.3,3.9,12969,44.76,45,Staten Island,White
+177,New Springville-Bloomfield-Travis,SI05,41936,58.9,4.1,14.9,19.4,8446,20.14,20,Staten Island,White
+178,Westerleigh,SI07,24111,71.1,3.2,15.6,8.9,4954,20.55,21,Staten Island,White
+179,Grymes Hill-Clifton-Fox Hills,SI08,21707,27.4,32.2,27.6,11,2505,11.54,12,Staten Island,Black
+180,Charleston-Richmond Valley-Tottenville,SI11,24275,85.5,0.9,9.8,3.3,8216,33.85,34,Staten Island,White
+181,Mariner's Harbor-Arlington-Port Ivory-Graniteville,SI12,31907,21.6,28.5,37.3,10.1,3776,11.83,12,Staten Island,Latino/Hispanic
+182,Grasmere-Arrochar-Ft. Wadsworth,SI14,16292,62.8,7.2,14.6,12.7,2133,13.09,13,Staten Island,White
+183,West New Brighton-New Brighton-St. George,SI22,32172,24.3,31.4,33,5.6,3970,12.34,12,Staten Island,Latino/Hispanic
+184,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill,SI24,32348,71.2,2.3,10.2,14.6,4823,14.91,15,Staten Island,White
+185,Oakwood-Oakwood Beach,SI25,20509,76.7,2,14.4,4.2,5675,27.67,28,Staten Island,White
+186,Port Richmond,SI28,19545,37,16.5,38.3,6.7,3084,15.78,16,Staten Island,Latino/Hispanic
+187,Rossville-Woodrow,SI32,22197,86.1,0.1,8.5,3.6,9251,41.68,42,Staten Island,White
+188,New Brighton-Silver Lake,SI35,17105,60.8,7.3,23.8,5.8,3539,20.69,21,Staten Island,White
+189,Old Town-Dongan Hills-South Beach,SI36,25453,67,4.9,15.5,10,4952,19.46,19,Staten Island,White
+190,Stapleton-Rosebank,SI37,25347,37.3,20.2,28.4,11,3840,15.15,15,Staten Island,White
+191,New Dorp-Midland Beach,SI45,20933,73.9,3.5,15.1,6.7,5452,26.05,26,Staten Island,White
+192,Arden Heights,SI48,26982,77.5,1.6,13.4,6.1,6999,25.94,26,Staten Island,White
+193,Great Kills,SI54,42306,83.5,0.9,9.4,5.2,10734,25.37,25,Staten Island,White

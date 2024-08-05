@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tree Ratio</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@700&display=swap">
+    <style>
+        @font-face {
+            font-family: 'Franklin Gothic';
+            src: url('path/to/franklin-gothic.woff2') format('woff2'),
+                 url('path/to/franklin-gothic.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        body {
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            text-align: left;
+            align-items: center;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1, h2, h3 {
+            font-family: 'Franklin Gothic', sans-serif;
+            text-align: center;
+            margin: 20px 0;
+        }
+
+        h1 {
+            font-size: 2.75em;
+            padding-top: .5em;
+        }
+
+        h2 {
+            font-size: 1.5em;
+        }
+
+        h3 {
+            font-size: 1.2em;
+        }
+
+        subhead {
+            font-size: 1.1em;
+        }
+
+        byline {
+            font-size: .8em;
+            padding: 1em;
+        }
+
+        p {
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            font-size: 1em;
+            text-align: left;
+            max-width: 640px;
+            margin: 10px auto;
+            line-height: 1.6;
+            margin: 0;
+            padding-bottom: 1.2em;
+
+        }
+
+        .controls {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        label {
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            font-size: 1em;
+            margin-right: 10px;
+        }
+
+        .person {
+            fill: '#210124';
+        }
+    </style>
+</head>
+<body>
+    <h1>What's the tree ratio in your neighborhood?</h1>
+    <subhead>We take a look at the latest tree census and neighborhood census. </subhead>
+    <byline>By Rambo Talabong</byline>
+    <p>There are over 600 thousand street trees in New York City. There are over 8 million New Yorkers. Not every neighborhood has the same share of trees.</p>
+    <p>In this interactive, we look at each neighborhood and how many street trees they have per 100 people.</p>
+
+    <h2>Find your neighborhood:</h2>
+    <div class="controls">
+        <label for="neighborhood"></label>
+        <select id="neighborhood"></select>
+    </div>
+    <svg width="1080" height="667.5"></svg>
+    <p>For this visualization, we used the latest population data on neighborhood tabulation areas by the Census Bureau. We also used the New York City census of trees in 2015.</p>
+    <p>The street tree census of New York City is interesting because it counts only street trees and excludes trees in parks.</p>
+    <p>With walking as one of the more preferred modes of transportation by New Yorkers and with the increase of extreme-temperature days, street trees have become more important.</p>
+    <script src="index.js"></script>
+</body>
+</html>
