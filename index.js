@@ -15,10 +15,10 @@ document.addEventListener("DOMContentLoaded", function() {
                 d.tree_ratio_rounded = +d.tree_ratio_rounded; 
             });
 
-            // Sorting neighborhoods alphabetically
+            // Dropdown selection
             data.sort((a, b) => d3.ascending(a.nta_name, b.nta_name));
 
-            // Dropdown options creation
+            // Dropdown 
             const dropdown = d3.select("#neighborhood");
             dropdown.selectAll("option")
                 .data(data)
@@ -27,12 +27,12 @@ document.addEventListener("DOMContentLoaded", function() {
                 .attr("value", d => d.nta_name)
                 .text(d => d.nta_name);
 
-            // Randomize first neighborhood to select
+            // First neighborhood
             const randomNeighborhood = data[Math.floor(Math.random() * data.length)].nta_name;
             updateVisualization(randomNeighborhood);
             dropdown.property("value", randomNeighborhood);
 
-            // Update visualization on dropdown change with fade transition
+            // Dropdown change
             dropdown.on("change", function() {
                 const selectedNeighborhood = this.value;
                 svg.selectAll("circle, image")
@@ -54,7 +54,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 function generateRandomPositions(count, radius, width, height, padding) {
                     const positions = [];
                     let attempts = 0;
-                    const maxAttempts = count * 100; // Limit the number of attempts to prevent infinite loops
+                    const maxAttempts = count * 100;
 
                     while (positions.length < count && attempts < maxAttempts) {
                         let x = Math.random() * (width - 2 * radius - padding) + radius + padding / 2;
@@ -104,7 +104,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 // Try placing trees with initial size
                 const { treePositions, treeWidth, treeHeight } = tryPlacingTrees(treeRatio, initialTreeWidth, initialTreeHeight);
 
-                // Create circles (people)
+                // Circles
                 svg.selectAll("circle")
                     .data(circlePositions)
                     .enter()
@@ -119,7 +119,7 @@ document.addEventListener("DOMContentLoaded", function() {
                     .duration(2500)
                     .style("opacity", 1);
 
-                // Create tree images
+                // Trees 
                 d3.xml("tree.svg").then(treeSVG => {
                     const treeNode = treeSVG.documentElement;
 
